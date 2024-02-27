@@ -102,7 +102,7 @@ plt.show()
 ## Output:
 ![OUTPUT](IMG-01.png)
 ![OUTPUT](IMG-02.png)
-![OUTPUT](GRAPH.png)
+![OUTPUT](GRAPH-1.png)
 
 ## Result:
    Thus a Bayesian Network is generated using Python
